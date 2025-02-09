@@ -11,7 +11,7 @@
 - Spreadsheets: Excel
 - Data Visualization: Tableau
 
-### 🗂️ My Projectsu
+### 🗂️ My Projects
 
 Explore my portfolio, where I try to develop my skills through a variety of [projects](https://github.com/theodorosmalezidis/PortfolioNavigator/blob/main/README.md)
 
