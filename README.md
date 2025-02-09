@@ -6,7 +6,7 @@
 ### 🛠️ My Tools
 
 - Language: SQL
-- Databases: PostgreSQL, SQL Server
+- Databases: Postgres, SQL Server
 - Coding: VS Code
 - Spreadsheets: Excel
 - Data Visualization: Tableau
