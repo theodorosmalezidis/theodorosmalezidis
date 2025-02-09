@@ -14,3 +14,8 @@
 ### My Projects
 
 Explore my portfolio, where I try to develop my skills through a variety of [projects](https://github.com/theodorosmalezidis/PortfolioNavigator/blob/main/README.md)
+
+### Explore More
+
+- [My Portfolio Website](https://theodorosmalezidis.github.io/)
+- [Tableau Public Profile](https://public.tableau.com/app/profile/theodoros.malezidis7413/vizzes)
