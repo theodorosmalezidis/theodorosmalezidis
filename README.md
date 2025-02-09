@@ -1,4 +1,4 @@
-![Banner](banner/banner.jpg)
+![Banner](banner\banner.jpg)
 ### Who I Am
 
 👋 Hello ! I’m Theodoros. I’m on my journey to becoming a data analyst, currently mastering tools like SQL, Tableau, and Excel. As I create my portfolio, I focus on turning data into clear, actionable insights. I’m excited about the endless possibilities data offers in solving problems and shaping decisions.
