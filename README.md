@@ -17,6 +17,6 @@ Explore my portfolio, where I try to develop my skills through a variety of [pro
 
 ### 🔍 Explore More
 
-- 🌐 [My Portfolio Website](https://theodorosmalezidis.github.io/)
+- 🌐 [My Portfolio Website](https://theodorosmalezidis.netlify.app/)
 - 📊 [Tableau Public Profile](https://public.tableau.com/app/profile/theodoros.malezidis7413/vizzes)
 - 🔗 [Free Recources](https://github.com/theodorosmalezidis/Free_Resources/blob/main/README.md)
