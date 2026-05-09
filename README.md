@@ -23,4 +23,4 @@ Explore my portfolio, where I try to develop my skills through a variety of [pro
 
 ### 🤝 Connect with me
 
-- 🟦 [My LInkedin Profile](https://www.linkedin.com/in/theodorosmalezidis/)
+- 🟦 [My Linkedin Profile](https://www.linkedin.com/in/theodorosmalezidis/)
